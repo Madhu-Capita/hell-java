@@ -1,0 +1,1 @@
+echo "Firstjob :Triggered at: %date% : %timr% "
