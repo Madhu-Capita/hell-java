@@ -7,7 +7,7 @@ public class Hello {
 
        //System.out.println("Hello, World");
 
-        System.out.println("Triggering one new job from Madhu");
+        System.out.println("Triggering one first job from Madhu");
 
     }
 
